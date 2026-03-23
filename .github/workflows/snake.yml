@@ -2,29 +2,33 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # Runs every 12 hours
   workflow_dispatch:
 
+# ✅ REQUIRED: allows GitHub Actions to push to repo
 permissions:
-  contents: write   # ✅ VERY IMPORTANT FIX
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4   # ✅ FIX
+      # ✅ Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      # ✅ Generate snake animation
       - name: Generate Snake Animation
-        uses: Platane/snk@v3   # ✅ updated action
+        uses: Platane/snk@v3
         with:
           github_user_name: anushka4408
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+      # ✅ Push to output branch
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4   # ✅ updated version
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
