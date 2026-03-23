@@ -73,7 +73,6 @@ Developer bridging **AI, cloud infrastructure, and full-stack engineering** — 
 
 **Tech:** `React` `Node.js` `MongoDB` `Gemini AI`<br/>
 **Highlights:** ML expense insights · Gemini AI budgeting · Secure auth<br/>
-**Status:** ![Status](https://img.shields.io/badge/Live-4CAF50?style=flat-square)
 
 [![View Project](https://img.shields.io/badge/View_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushka4408/Prospera-Financial-Wellness-App)
 
@@ -88,7 +87,6 @@ Developer bridging **AI, cloud infrastructure, and full-stack engineering** — 
 
 **Tech:** `GCP` `Vertex AI` `Cloud Run` `Python`<br/>
 **Highlights:** Auto-generates quizzes · Multi-role system · GCP native<br/>
-**Status:** ![Status](https://img.shields.io/badge/Production%20Ready-4CAF50?style=flat-square)
 
 [![View Project](https://img.shields.io/badge/View_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushka4408/Aidemy-gcloud)
 
@@ -105,7 +103,6 @@ Developer bridging **AI, cloud infrastructure, and full-stack engineering** — 
 
 **Tech:** `MongoDB` `Express` `React` `Node.js`<br/>
 **Highlights:** JWT auth · Cart & orders · Admin dashboard<br/>
-**Status:** ![Status](https://img.shields.io/badge/Live-4CAF50?style=flat-square)
 
 [![View Project](https://img.shields.io/badge/View_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushka4408/Luxeora-Ecommerce-)
 
@@ -120,7 +117,6 @@ Developer bridging **AI, cloud infrastructure, and full-stack engineering** — 
 
 **Tech:** `Python` `TensorFlow` `OpenCV` `CNN`<br/>
 **Highlights:** X-ray classification · Deep learning · High accuracy<br/>
-**Status:** ![Status](https://img.shields.io/badge/Production%20Ready-4CAF50?style=flat-square)
 
 [![View Project](https://img.shields.io/badge/View_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushka4408/Covid-xrayimageClassification)
 
