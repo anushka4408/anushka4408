@@ -55,48 +55,83 @@ Developer bridging **AI, cloud infrastructure, and full-stack engineering** — 
 
 ## Featured Projects
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2B+Cloud+%2B+Full+Stack;From+Concept+to+Production;Real+Problems.+Real+Solutions." />
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Prospera — AI Financial Platform**
+### 💸 Prospera — AI Financial Platform
 
-AI-powered budgeting with Gemini integration and ML-driven expense insights.
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="180"/>
+</div>
 
-`React` `Node.js` `MongoDB` `Gemini AI`
+**Tech:** `React` `Node.js` `MongoDB` `Gemini AI`<br/>
+**Highlights:** ML expense insights · Gemini AI budgeting · Secure auth<br/>
+**Status:** ![Status](https://img.shields.io/badge/Live-4CAF50?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/View_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushka4408/Prospera-Financial-Wellness-App)
 
 </td>
 <td width="50%" valign="top">
 
-**Aidemy — AI Teaching Assistant**
+### 🎓 Aidemy — AI Teaching Assistant
 
-GCP-hosted education platform that auto-generates quizzes and assignments with multi-role support.
+<div align="center">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" height="180"/>
+</div>
 
-`GCP` `Vertex AI` `Cloud Run` `Python`
+**Tech:** `GCP` `Vertex AI` `Cloud Run` `Python`<br/>
+**Highlights:** Auto-generates quizzes · Multi-role system · GCP native<br/>
+**Status:** ![Status](https://img.shields.io/badge/Production%20Ready-4CAF50?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/View_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushka4408/Aidemy-gcloud)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**LuxeOra — E-Commerce Platform**
+### 🛍️ LuxeOra — E-Commerce Platform
 
-Full MERN stack shopping platform with JWT auth and admin analytics dashboard.
+<div align="center">
+<img src="https://media.giphy.com/media/l378bu6ZYmzS6nBrW/giphy.gif" width="300" height="180"/>
+</div>
 
-`MongoDB` `Express` `React` `Node.js`
+**Tech:** `MongoDB` `Express` `React` `Node.js`<br/>
+**Highlights:** JWT auth · Cart & orders · Admin dashboard<br/>
+**Status:** ![Status](https://img.shields.io/badge/Live-4CAF50?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/View_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushka4408/Luxeora-Ecommerce-)
 
 </td>
 <td width="50%" valign="top">
 
-**COVID Detection via CNN**
+### 🧠 COVID Detection via CNN
 
-Deep learning model for X-ray based COVID classification using TensorFlow and OpenCV.
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" height="180"/>
+</div>
 
-`Python` `TensorFlow` `OpenCV`
+**Tech:** `Python` `TensorFlow` `OpenCV` `CNN`<br/>
+**Highlights:** X-ray classification · Deep learning · High accuracy<br/>
+**Status:** ![Status](https://img.shields.io/badge/Production%20Ready-4CAF50?style=flat-square)
+
+[![View Project](https://img.shields.io/badge/View_Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushka4408/Covid-xrayimageClassification)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Each+project+solves+a+real-world+problem;Built+with+modern%2C+scalable+tech+stacks" />
+</div>
 
 ---
 
@@ -222,3 +257,4 @@ Deep learning model for X-ray based COVID classification using TensorFlow and Op
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
 </div>
+
