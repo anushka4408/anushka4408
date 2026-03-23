@@ -1,132 +1,286 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Anushka+Singh!;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Cloud+%2B+MERN+Developer" />
+
+<!-- 🌌 HERO BANNER -->
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+<h1>✨ Hi, I'm Anushka Singh ✨</h1>
+
+<p>
+🚀 Full Stack Developer | 🤖 AI Engineer | ☁️ Cloud & AWS Builder
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+%2B+Cloud+Systems;MERN+Stack+Developer;AWS+Certified+Engineer;Turning+Ideas+into+Real+Products" />
+
 </div>
 
-<hr/>
+---
 
 ## 📑 Table of Contents
-1. [Introduction](#introduction)
-2. [Skills](#skills)
-3. [Research Focus](#research-focus)
-4. [Certifications](#certifications)
-5. [Featured Projects](#featured-projects)
-6. [Connect With Me](#connect-with-me)
+
+* [Introduction](#introduction)
+* [Skills](#skills)
+* [Research Focus](#research-focus)
+* [Certifications](#certifications)
+* [Featured Projects](#featured-projects)
+* [Experience](#experience)
+* [GitHub Analytics](#github-analytics)
+* [Connect With Me](#connect-with-me)
 
 ---
 
 <a id="introduction"></a>
+
 ## 👩‍💻 Introduction
 
-🎓 Computer Science Engineer passionate about building **scalable full-stack applications** and **AI-powered systems**  
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" align="right"/>
 
-💡 Strong experience in:
-- MERN Stack Development  
-- Spring Boot Backend Systems  
-- AI/ML Integration (OpenAI, Gemini, LLMs)  
-- Cloud Deployment (GCP, AWS)  
+Motivated developer with experience in **Full Stack Development, AI systems, and Cloud Engineering**
 
-🚀 I love building:
-> AI + Cloud + Full Stack solutions
+🎯 I specialize in:
+
+* MERN Stack Development
+* AI/ML + LLM Integration
+* Cloud (AWS + GCP)
+
+💡 Built real-world systems:
+
+* 🔐 **AWS Security Monitoring & Alerting System**
+* 📩 **In-house SMS Orchestration Platform (Salesforce Integrated)**
 
 ---
 
 <a id="skills"></a>
+
 ## 🛠️ Skills
 
-### 💻 Languages
-- Python 🐍 | Java ☕ | JavaScript ⚡  
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" />
 
-### 🌐 Frameworks & Libraries
-- React.js, Node.js, Express.js  
-- Spring Boot  
-- Flask, Django  
-- TensorFlow, Scikit-learn  
+### 💻 Languages
+
+`Python` `Java` `JavaScript` `TypeScript`
+
+### 🌐 Frameworks
+
+`React.js` `Node.js` `Express.js` `Spring Boot`
+`Flask` `Django`
 
 ### ☁️ Cloud & DevOps
-- Google Cloud (Cloud Run, Cloud SQL)  
-- AWS  
-- Docker  
+
+`AWS` `GCP` `Docker` `GitHub Actions`
 
 ### 🗄️ Databases
-- MongoDB  
-- PostgreSQL  
-- MySQL  
+
+`MongoDB` `PostgreSQL`
 
 ---
 
 <a id="research-focus"></a>
+
 ## 🔬 Research Focus
 
-- 🤖 AI & Machine Learning Applications  
-- 🧠 LLM-based Systems & Chatbots  
-- ☁️ Cloud-Native Architectures  
-- ⚡ Real-time Scalable Systems  
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" />
+
+* 🤖 AI Systems & LLM Applications
+* 🧠 Speech & ML Modeling
+* ☁️ Cloud-Native Architectures
+* ⚡ Scalable Backend Systems
 
 ---
 
 <a id="certifications"></a>
+
 ## 🏆 Certifications
 
-- (Add your certifications here — I can format them with badges if you want)
+<div align="center">
+
+<a href="#">
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150"/>
+</a>
+
+<br/>
+
+**🏗️ AWS Certified Solutions Architect – Associate**
+
+</div>
 
 ---
 
 <a id="featured-projects"></a>
-## 🔥 Featured Projects
 
-### 💸 Prospera – AI Budgeting App
-- AI-powered financial assistant  
-- ML-based expense classification  
-- LLM chatbot integration  
-- Tech: React, Flask, MongoDB  
+## 🚀 Featured Projects
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+
+<table>
+<tr>
+<td width="50%">
+
+### 💸 Prospera – AI Financial Platform
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
+* AI-powered budgeting system
+* ML-based expense insights
+* Gemini AI integration
+
+</td>
+
+<td width="50%">
+
+### 🤖 Aidemy – AI Teaching Assistant
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%"/>
+
+* Built on GCP (Vertex AI + Cloud Run)
+* Generates quizzes & assignments
+* Multi-role system
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛍️ LuxeOra – E-Commerce
+
+<img src="https://media.giphy.com/media/l378bu6ZYmzS6nBrW/giphy.gif" width="100%"/>
+
+* MERN stack
+* JWT authentication
+* Admin dashboard
+
+</td>
+
+<td width="50%">
+
+### 🧠 COVID Detection (CNN)
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%"/>
+
+* Deep learning model
+* TensorFlow + OpenCV
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 AI SaaS Chatbot
-- OpenAI-powered chatbot  
-- Real-time conversations  
-- MERN stack  
+<a id="experience"></a>
+
+## 💼 Experience
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+
+### 🏢 Home First Finance Company
+
+🔐 Built **AWS Security Logging & Monitoring System**
+
+* AES-secured logging
+* Real-time detection + alerting
+* Integrated AWS + open-source SIEM
+
+💡 Impact:
+
+* Improved security visibility
+* Reduced detection time
+* Strengthened compliance
 
 ---
 
-### 🏦 Online Banking Request System
-- JSP + Servlets + JDBC  
-- Secure banking workflows  
+### 📩 SMS Orchestration System
+
+🚀 Built a complete **in-house SMS platform**
+
+* Integrated with Salesforce
+* Retry + failure handling
+* Real-time logging
+
+💰 Result:
+
+> Eliminated third-party dependency → cost savings
 
 ---
 
-### 🎯 Cultural Event Management System
-- Angular + Spring Boot + PostgreSQL  
-- JWT role-based authentication  
+### 💻 SwapSo – Full Stack Intern
+
+* Built React interfaces
+* Improved UX & performance
 
 ---
 
-### 🧠 COVID-19 Detection using CNN
-- Deep learning model for medical imaging  
-- TensorFlow + OpenCV  
+### 🤖 ML Intern – Suvidha Foundation
+
+* Built speech datasets
+* Worked on ML classification
 
 ---
 
-## 📊 GitHub Stats
+<a id="github-analytics"></a>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=anushka4408&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka4408&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka4408&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushka4408&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/anushka4408/anushka4408/blob/output/github-contribution-grid-snake.svg" />
+
 </div>
 
 ---
 
 <a id="connect-with-me"></a>
+
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/anushkasingh4408/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anushka4408@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/anushka4408/anushka4408/">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
 ---
 
-⭐ *“Building scalable systems, one commit at a time.”*
+<div align="center">
+
+✨ *“I build systems that solve real-world problems using AI + Cloud.”* ✨
+
+</div>
